@@ -1,0 +1,10 @@
+.breadCrums {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  .breadCrums img {
+    margin: 0 5px;
+  }
+  
