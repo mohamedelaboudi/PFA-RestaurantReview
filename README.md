@@ -9,9 +9,6 @@ Welcome to the Restaurant Ranking Website project! This application helps users 
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -86,13 +83,13 @@ API Documentation: Postman
 
  ### Project Structure
 restaurant-ranking/
-├── backend/
+- backend/
 │   ├── Controllers/
 │   ├── Models/
 │   ├── Services/
 │   ├── Data/
 │   └── appsettings.json
-├── frontend/
+- frontend/
   ├── UI/
 │   │   ├── components/
 │   │   ├── pages/
